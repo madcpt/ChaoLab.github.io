@@ -4,7 +4,13 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+4545 Microbial Sciences Building <br>
+1550 Linden Drive, 5 <br>
+Madison, WI 53706
 
+Email: zczhou2017 [at] gmail.com
+Website: https://anantharamanlab.com/contact/
+
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/tree/master/images/Google_map_screencut.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
+</p>
