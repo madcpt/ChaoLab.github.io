@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhichao Zhou"
 title_separator          : "-"
 name                     : &name "Zhichao Zhou"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
+description              : &description "Posdoc, Department of Bacteriology, University of Wisconsin - Madison"
 url                      : https://ChaoLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChaoLab/ChaoLab.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Zhichao Zhou"
   avatar           : "screenshot_20181218_204645.png"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "Posdoc, Department of Bacteriology, University of Wisconsin - Madison"
+  location         : "Madison, WI"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9e0nrQIAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
+  email            : "zczhou2017@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
