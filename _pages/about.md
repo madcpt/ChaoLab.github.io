@@ -52,7 +52,7 @@ ecology/Omics-mediated microbial ecology studies/Biogeochemical process related 
 https://biorxiv.org/content/10.1101/768564v1?rss=1    
 
 <p align="center">
-  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC01.jpg?raw=true" alt="Photo" width="45%"/>   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC02.jpg.tif?raw=true" alt="Photo" width="45%"/> 
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC01.jpg?raw=true" alt="Photo" width="45%"/>   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC02.tif?raw=true" alt="Photo" width="45%"/> 
 </p>
 
 * 2019-08 | METABOLIC    
