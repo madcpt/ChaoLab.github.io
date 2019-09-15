@@ -49,5 +49,5 @@ ecology/Omics-mediated microbial ecology studies/Biogeochemical process related 
 </p>
 
 
-* 2019-09 | Comprehensive metabolic insights on Hydrothermarchaeota from comparative genomics, evolution and community-level aspects. <br>    
+2019-09 | Comprehensive metabolic insights on Hydrothermarchaeota from comparative genomics, evolution and community-level aspects. <br> 
 https://biorxiv.org/content/10.1101/768564v1?rss=1  <br> 
