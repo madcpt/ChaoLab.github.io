@@ -1,5 +1,12 @@
-#Conferences
-* Sep 3, 2019	33rd Annual Kenneth B. Raper Symposium, UW-Madison<br>    
+---
+layout: archive
+title: "Conferences and Activities"
+permalink: /Conference_and_activities/
+author_profile: true
+---
+
+# Conferences
+* Sep 3, 2019	33rd Annual Kenneth B. Raper Symposium, UW-Madison<br>  
 * Jun 20-24, 2019	ASM Microbe 2019, San Francisco<br>
 Poster: Genomic and transcriptomic insights into the ecology and metabolism of benthic archaeal cosmopolitan, Thermoprofundales (MBG-D archaea)<br>
 * Jun 8-11, 2018	The 7th National Geomicrobiology Conference, Shanghai Jiao Tong University, Shanghai;<br>
@@ -17,7 +24,7 @@ Poster: PCR amplification based community analysis of methane-producing and meta
 * Aug 11-16, 2013	Marine Molecular Ecology (Gordon Research Conference); The Hong Kong University of Science and Technology<br>
 Poster: Codehop based primers retrieving more mcrA gene copies from ANME archaea<br>
 
-#Activities
+# Activities
 * Jun 20-24, 2019	ASM Microbe 2019, San Francisco; giving poster: Genomic and transcriptomic insights into the ecology and metabolism of benthic archaeal cosmopolitan, Thermoprofundales (MBG-D archaea)<br>
 * Jun 8-11, 2018	The 7th National Geomicrobiology Conference, Shanghai Jiao Tong University, Shanghai; co-first contributor to an oral presentation: Two or three domains: a new view of tree of life in the genomics era<br>
 * Nov 25-26, 2017	Attend the 2nd Shenzhen Forum on Ocean Sciences for Young Scholars, Southern Univerity of Science and Technology, Shenzhen, China<br>
