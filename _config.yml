@@ -202,10 +202,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Conference_and_activities
   - scope:
       path: ""
-      type: teaching
+      type: Conference_and_activities
     values:
       layout: single
       author_profile: true
