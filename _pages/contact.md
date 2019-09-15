@@ -9,7 +9,7 @@ author_profile: true
 Madison, WI 53706 <br>
 
 Email: zczhou2017 [at] gmail.com <br>
-Website: [https://anantharamanlab.com/contact/](https://anantharamanlab.com/contact/)
+* Website: [https://anantharamanlab.com/contact/](https://anantharamanlab.com/contact/)
 
 <p align="center">
   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Google_map_screencut.jpg?raw=true" alt="Photo" width="60%"/> 
