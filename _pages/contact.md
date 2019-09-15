@@ -8,7 +8,7 @@ author_profile: true
 1550 Linden Drive <br>
 Madison, WI 53706 <br>
 
-Email: zczhou2017 [at] gmail.com <br>
+* Email: zczhou2017 [at] gmail.com <br>
 * Website: [https://anantharamanlab.com/contact/](https://anantharamanlab.com/contact/)
 
 <p align="center">
