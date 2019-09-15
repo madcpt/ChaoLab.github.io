@@ -12,7 +12,7 @@ Email: zczhou2017 [at] gmail.com <br>
 Website: [https://anantharamanlab.com/contact/](https://anantharamanlab.com/contact/)
 
 <p align="center">
-  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Google_map_screencut.jpg" alt="Photo" width="60%"/> 
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Google_map_screencut.jpg?raw=true" alt="Photo" width="60%"/> 
 </p>
 
 
