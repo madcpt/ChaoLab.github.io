@@ -52,14 +52,34 @@ ecology/Omics-mediated microbial ecology studies/Biogeochemical process related 
 https://biorxiv.org/content/10.1101/768564v1?rss=1    
 
 <p align="center">
-  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC01.jpg?raw=true" alt="Photo" width="45%"/>   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC02.tif?raw=true" alt="Photo" width="45%"/> 
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC01.jpg?raw=true" alt="Photo" width="45%"/>   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/METABOLIC02.jpg?raw=true" alt="Photo" width="45%"/> 
 </p>
 
 * 2019-08 | METABOLIC    
 **MET**abolic **A**nd **B**ioge**O**chemistry ana**L**yses **I**n mi**C**robes    
 This software enables the prediction of metabolic and biogeochemical functional trait profiles to any given genome datasets. These genome datasets can either be metagenome-assembled genomes (MAGs), single-cell amplified genomes (SAGs) or pure culture sequenced genomes. It can also calculate the genome coverage. The information is parsed and diagrams for elemental/biogeochemical cycling pathways (currently Nitrogen, Carbon, Sulfur and "other") are produced.    
-  
 
+# Posters
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster01.jpg?raw=true" alt="Photo" width="60%"/>  
+</p>
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster02.jpg?raw=true" alt="Photo" width="60%"/>  
+</p>
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster03.jpg?raw=true" alt="Photo" width="60%"/>  
+</p>
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster04.jpg?raw=true" alt="Photo" width="60%"/>  
+</p>
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster05.jpg?raw=true" alt="Photo" width="60%"/>  
+</p>
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster06.jpg?raw=true" alt="Photo" width="60%"/>  
+<p align="center">
+  <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Poster07.jpg?raw=true" alt="Photo" width="60%"/>  
+</p>
   
 
   
