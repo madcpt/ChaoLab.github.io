@@ -3,7 +3,15 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+24.Zhichao Zhou, Yang Liu, Wei Xu, Jie Pan, Zhu-Hua Luo, Meng Li. Genome and community-level interaction insights on wide carbon utilizing and element cycling function of Hydrothermarchaeota from hydrothermal sediment. bioRxiv 768564; doi: https://doi.org/10.1101/768564 (2019)
 
+23.Zhichao Zhou, Patricia Tran, Yang Liu, Kristopher Kieft, Karthik Anantharaman. METABOLIC: A scalable high-throughput metabolic and biogeochemical functional trait profiler based on microbial genomes. bioRxiv 761643; doi: https://doi.org/10.1101/761643 (2019)
+
+22.Lei Zhou, Zhichao Zhou, Yu-Wei Lu, Lei Ma, Yang Bai, Xiao-Xiao Li, Serge Maurice Mbadinga, Yi-	Fan Liu, Xin-Chen Yao, Yi-Jie Qiao, Zi-Rui Zhang, Jin-Feng Liu, Shi-Zhong Yang, Wei-Dong Wang, Ji-Dong Gu, Bo-Zhong Mu. The newly proposed TACK and DPANN archaea detected in the production waters from a high-temperature petroleum reservoir. International Biodeterioration & Biodegradation 143, 104729 (2019)
+
+20.Jin-Feng Liu, Kai Zhang, Bo Liang, Zhi-Chao Zhou, Shi-Zhong Yang, Wei Li, Zhao-Wei Hou, Xiao-Lin Wu, Ji-Dong Gu, Bo-Zhong Mu. Key players in the methanogenic biodegradation of n-hexadecane identified by DNA-Stable isotope probing. International Biodeterioration & Biodegradation 143, 104709 (2019)
+
+19.Meng, H., Zhou, Z., Wu, R., Wang, Y., & Gu, J.-D. Diazotrophic microbial community and abundance in acidic subtropical natural and re-vegetated forest soils revealed by high-throughput sequencing of nifH gene. Applied Microbiology and Biotechnology 103 (2), 995-1005 (2019)
 
 18.Pan, J., Chen, Y., Wang, Y., Zhou, Z. & Li, M. Vertical Distribution of Bathyarchaeotal Communities in Mangrove Wetlands Suggests Distinct Lifestyle of Bathyarchaeota Subgroup-6. Microbial Ecology, doi:10.1007/s00248-018-1309-7 (2018).    
  
@@ -40,8 +48,3 @@ author_profile: true
 2.Su, W., Zhou, Z., Jiang, F., Chang, X., Liu, Y., Wang, S., Kan, W., Xiao, M., Shao, M., Peng, F. & Fang, C. Iodobacter limnosediminis sp nov., isolated from Arctic lake sediment. International Journal of Systematic and Evolutionary Microbiology 63, 1464-1470, doi:10.1099/ijs.0.039982-0 (2013).
  
 1.Zhou, Z., Jiang, F., Wang, S., Peng, F., Dai, J., Li, W. & Fang, C. Pedobacter arcticus sp nov., a facultative psychrophile isolated from Arctic soil, and emended descriptions of the genus Pedobacter, Pedobacter heparinus, Pedobacter daechungensis, Pedobacter terricola, Pedobacter glucosidilyticus and Pedobacter lentus. International Journal of Systematic and Evolutionary Microbiology 62, 1963-1969, doi:10.1099/ijs.0.031104-0 (2012).
- 
-
-
-
-
