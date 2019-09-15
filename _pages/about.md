@@ -26,6 +26,6 @@ ecology/Omics-mediated microbial ecology studies/Biogeochemical process related 
   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Hydro01.jpg?raw=true" alt="Photo" width="45%"/>   <img src="https://github.com/ChaoLab/ChaoLab.github.io/blob/master/images/Hydro02.jpg?raw=true" alt="Photo" width="45%"/> 
 </p>
 
-* 2019-09 
-*Comprehensive metabolic insights on Hydrothermarchaeota from comparative genomics, evolution and community-level aspects    
+* 2019-09     
+* Comprehensive metabolic insights on Hydrothermarchaeota from comparative genomics, evolution and community-level aspects    
 bioRxiv: [https://biorxiv.org/content/10.1101/768564v1?rss=1] (https://biorxiv.org/content/10.1101/768564v1?rss=1)
